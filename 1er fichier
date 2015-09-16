@@ -1,0 +1,14 @@
+<DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>HELLO WORLD !</TITLE>
+</HEAD>
+
+<BODY>
+<H1>HELLO WORLD</H1>
+<P>CECI EST UN PARAGRAPHE</P>
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<!-- COMMENTAIRES -->
+
+</BODY>
+</HTML>
