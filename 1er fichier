@@ -1,13 +1,15 @@
 <DOCTYPE HTML>
 <HTML>
 <HEAD>
-<TITLE>HELLO WORLD !</TITLE>
+<TITLE>"HELLO WORLD !</TITLE>
 </HEAD>
 
 <BODY>
 <H1>HELLO WORLD</H1>
-<P>CECI EST UN PARAGRAPHE</P>
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<P><FONT COLOR="red" style="font-size=20pt"FACE="Comic sans ms">CECI EST UN PARAGRAPHE</FONT>
+<FONT COLOR="yellow" style="font-size=10pt"FACE="Arial">Plus petit</FONT>
+<FONT COLOR="blue" style="font-size=60pt"FACE="Castellar">Plus grand</FONT></P>
+<IMG SRC="BIEN.png">
 <!-- COMMENTAIRES -->
 
 </BODY>
