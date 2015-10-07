@@ -2,6 +2,13 @@
 <HTML>
 <HEAD>
 <TITLE>"HELLO WORLD !</TITLE>
+
+<style type="text/css" media="all">
+@import "change.css";
+</style> 
+
+
+
 </HEAD>
 
 <BODY background="9316a2d0d3a2344d25dd1308e6e0363e_large.jpeg">
@@ -11,7 +18,7 @@
 <FONT COLOR="yellow" style="font-size=10pt"FACE="Arial">Plus petit</FONT>
 <br/>
 <FONT COLOR="blue" style="font-size=60pt"FACE="Castellar">Plus grand</FONT></P>
-<a href="Site 2.html"><IMG SRC="BIEN.png"></a>
+<a href="new 2.html""><IMG SRC="cliqueIci.gif"></a>
 <P><FONT COLOR="green" style="font-size=30pt" FACE="Comic sans ms">Pour aller voir le second site, cliques sur l'image</FONT></P>
 <!-- COMMENTAIRES -->
 
